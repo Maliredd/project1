@@ -1,0 +1,22 @@
+img{
+    border-radius: 70%;
+    width: 200px;
+    height: 200px;
+   
+}
+hr{
+    width: 100%;
+    height: 100%;
+    color: black;
+    
+}
+.table-2{
+    th,td,tr,table{
+        border: 1px solid blue;
+    }
+   
+}
+.table-3{
+    
+        border: 1px solid blue;    
+}
